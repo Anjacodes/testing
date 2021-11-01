@@ -1,4 +1,4 @@
 
 def hello
-  # your code goes here
+  "Hello World"
 end
