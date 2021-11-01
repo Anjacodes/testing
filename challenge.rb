@@ -1,4 +1,4 @@
 
 def hello
-  "Hello World"
+  "Hello world"
 end
